@@ -106,3 +106,5 @@ O app consome essas informações diretamente, utilizando o SDK do Firebase, o q
   - Documento: `standings` (pontos e posição)
 
 Esse fluxo garante que o aplicativo mantenha consistência e alta performance com base nos dados gerenciados pelo backend e armazenados no Firestore.
+
+![Fluxograma de dados](https://github.com/duhdoesk/Desafio-T-cnico---Winover/blob/main/Fluxograma.png?raw=true)
