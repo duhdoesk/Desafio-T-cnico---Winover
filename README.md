@@ -107,4 +107,8 @@ O app consome essas informações diretamente, utilizando o SDK do Firebase, o q
 
 Esse fluxo garante que o aplicativo mantenha consistência e alta performance com base nos dados gerenciados pelo backend e armazenados no Firestore.
 
+# Fluxo de dados
 ![Fluxograma de dados](https://github.com/duhdoesk/Desafio-T-cnico---Winover/blob/main/Fluxograma.png?raw=true)
+
+# Protótipo do client mobile
+[Figma](https://www.figma.com/proto/gPiRKiaCbCd57jEmOtWqrw/Projeto-Eduardo?node-id=0-1&p=f&t=N0gIss1BBlX1sBsn-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4620&show-proto-sidebar=1)
