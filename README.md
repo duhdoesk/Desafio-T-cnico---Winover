@@ -12,6 +12,7 @@ O processo de extração de dados será feito por meio de requisições HTTPS pa
 Antes de iniciar o serviço, utilizaremos a Football API para pré-popular nosso banco de dados com informações completas de todos os times da Premier League. Esse processo contemplará:
 
 - Extração inicial de dados de todos os times, com detalhes como nome, logo, partidas, e estádio.
+- Extração de todas as partidas da temporada.
 
 Esses dados servirão como base para que o aplicativo tenha conteúdo mesmo antes de eventos em tempo real serem consumidos.
 
