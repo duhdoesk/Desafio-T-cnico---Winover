@@ -112,7 +112,9 @@ Esse fluxo garante que o aplicativo mantenha consistência e alta performance co
 ![Fluxograma de dados](https://github.com/duhdoesk/Desafio-T-cnico---Winover/blob/main/Fluxograma.png?raw=true)
 
 # Protótipo do client mobile
-[Figma](https://www.figma.com/proto/gPiRKiaCbCd57jEmOtWqrw/Projeto-Eduardo?node-id=0-1&p=f&t=N0gIss1BBlX1sBsn-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4620&show-proto-sidebar=1)
+[Phone (Android Large)](https://www.figma.com/proto/gPiRKiaCbCd57jEmOtWqrw/Projeto-Eduardo?node-id=0-1&p=f&t=Qfl67ygmftrhYTWf-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4620)
+
+[Tablet (iPad 11")](https://www.figma.com/proto/gPiRKiaCbCd57jEmOtWqrw/Projeto-Eduardo?node-id=104-762&p=f&t=Qfl67ygmftrhYTWf-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=104%3A765)
 
 #### Screenshots
 ![Phone - Welcome](https://github.com/duhdoesk/Desafio-T-cnico---Winover/blob/main/Welcome.png?raw=true)
