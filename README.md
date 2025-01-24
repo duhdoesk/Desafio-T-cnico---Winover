@@ -112,3 +112,12 @@ Esse fluxo garante que o aplicativo mantenha consistência e alta performance co
 
 # Protótipo do client mobile
 [Figma](https://www.figma.com/proto/gPiRKiaCbCd57jEmOtWqrw/Projeto-Eduardo?node-id=0-1&p=f&t=N0gIss1BBlX1sBsn-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4620&show-proto-sidebar=1)
+
+#### Screenshots
+![Phone - Welcome](https://github.com/duhdoesk/Desafio-T-cnico---Winover/blob/main/Welcome.png?raw=true)
+![Phone - Login](https://github.com/duhdoesk/Desafio-T-cnico---Winover/blob/main/Login.png?raw=true)
+![Phone - Standings](https://github.com/duhdoesk/Desafio-T-cnico---Winover/blob/main/Standings.png?raw=true)
+![Phone - Club Details](https://github.com/duhdoesk/Desafio-T-cnico---Winover/blob/main/Club%20Details.png?raw=true)
+![Tablet - Welcome](https://github.com/duhdoesk/Desafio-T-cnico---Winover/blob/main/Tablet%20Welcome.png?raw=true)
+![Tablet - Login](https://github.com/duhdoesk/Desafio-T-cnico---Winover/blob/main/Tablet%20Login.png?raw=true)
+![Tablet - Standings](https://github.com/duhdoesk/Desafio-T-cnico---Winover/blob/main/Tablet%20Standings.png?raw=true)
