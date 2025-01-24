@@ -9,16 +9,16 @@ Utilizaremos a [Football API](https://footballapi.com/) como fonte de dados para
 O processo de extração de dados será feito por meio de requisições HTTPS para os endpoints RESTful fornecidos pela API. No caso de webhooks, o pipeline será automaticamente notificado sobre eventos relevantes, como gols ou início/fim de partidas.
 
 ## Pré-população
-Antes de iniciar o serviço, utilizaremos a Football API para pré-popular nosso banco de dados com informações completas de todos os times, jogadores e partidas históricas da Premier League. Esse processo incluirá:
+Antes de iniciar o serviço, utilizaremos a Football API para pré-popular nosso banco de dados com informações completas de todos os times da Premier League. Esse processo contemplará:
 
-- Extração inicial de dados de todos os times, com detalhes como nome, logo, partidas, estádio e posições na tabela.
+- Extração inicial de dados de todos os times, com detalhes como nome, logo, partidas, e estádio.
 
 Esses dados servirão como base para que o aplicativo tenha conteúdo mesmo antes de eventos em tempo real serem consumidos.
 
 # Processamento de dados
 
 ## Atualizações em Tempo Real
-Nossa API será atualizada em tempo real utilizando dois mecanismos principais:
+Nossa API será atualizada em tempo real utilizando do mecanismo Polling:
 
 ### Chamadas agendadas (Polling)
 Utilizando o Firebase Cloud Scheduler, faremos requisições periódicas à API para buscar informações de partidas em andamento. Essas requisições serão programadas para ocorrer a cada hora, garantindo que o banco de dados esteja sincronizado com as atualizações mais recentes acerca das partidas realizadas e da classificação do campeonato.
