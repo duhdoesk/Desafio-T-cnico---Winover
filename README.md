@@ -4,7 +4,7 @@
 
 ## Football API
 
-Utilizaremos a Football API[https://footballapi.com/] como fonte de dados para nosso serviço. Ela fornece uma base de dados rica e abrangente, com informações detalhadas sobre os times, jogadores, jogos e estatísticas históricas. Além disso, a Football API suporta atualizações em tempo real através de webhooks, o que garante que os dados estejam sempre atualizados com os eventos mais recentes.
+Utilizaremos a [Football API](https://footballapi.com/) como fonte de dados para nosso serviço. Ela fornece uma base de dados rica e abrangente, com informações detalhadas sobre os times, jogadores, jogos e estatísticas históricas. Além disso, a Football API suporta atualizações em tempo real através de webhooks, o que garante que os dados estejam sempre atualizados com os eventos mais recentes.
 
 O processo de extração de dados será feito por meio de requisições HTTPS para os endpoints RESTful fornecidos pela API. No caso de webhooks, o pipeline será automaticamente notificado sobre eventos relevantes, como gols ou início/fim de partidas.
 
